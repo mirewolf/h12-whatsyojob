@@ -1,6 +1,4 @@
-<>INSTALL<>
-> npm install
 
-<>RUN<>
-> npm install
-> npm start
+
+# Info
+Generates random employee images, name, phone number, email, and date of birth
